@@ -1,0 +1,13 @@
+{
+  "name": "scanxiety-failed-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disposable JavaScript fixture for SonarQube Cloud automatic-analysis recovery",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
